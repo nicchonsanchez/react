@@ -1,0 +1,11 @@
+Para criar um arquivo React basta:
+
+    1- Instalar o NodeJS
+    2- Entrar no terminal (CMD)
+    3- Entrar no diretório que deseja criar a pasta com os arquivos do React
+    4- Digitar: npx create-react-app my-app
+        OBS: Em "react-app" você pode colocar outro nome, este será o nome da pasta que ele irá criar
+    5- cd my-app
+    6- npm start
+
+E então uma pasta será criada no diretório escolhido
