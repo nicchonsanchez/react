@@ -1,6 +1,6 @@
 import './Array.css';
 
-function Array(pros) {
+export default function Array(pros) {
   return (
     <div className="Array">
       <hr></hr>
@@ -16,5 +16,3 @@ function Array(pros) {
     </div>
   );
 }
-
-export default Array;
